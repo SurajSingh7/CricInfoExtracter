@@ -1,0 +1,60 @@
+li{
+    list-style: none;
+    margin-left: 2rem;
+    padding-top: 8px;
+    font-size: 1.2rem;
+}
+.navbar >nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav>h1{
+    margin-left: 0.2rem;
+}
+ul{
+    display: flex;
+}
+.skills{
+    display: flex;
+}
+.skills>div{
+    text-align: center;
+    margin-top: 1rem;
+    margin-left: 1vw;
+    width: 30vw;
+}
+.skills>div>p{
+    padding: 2rem;
+}
+ .skills img{
+    height: 225px;
+    width: 225px;
+
+} 
+
+
+
+.welcomeImage>img{
+ height: 600px;
+ width: 1230px;
+}
+
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer >p{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:palevioletred;
+}
+
